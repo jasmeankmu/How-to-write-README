@@ -1,6 +1,6 @@
 # 마크다운 README 작성법
 
-<img src="./mdimage.png" style="width:50%">
+<img src="./mdimage.png">
  
 
 ## 마크다운이란?
@@ -174,11 +174,11 @@ _italic_
 ### 이미지 넣기
 
 ```
-<img src="./mdimage.png" style= "width : 100px" /> 
+<img src="./mdimage.png" /> 
 ```
 
 ### 이미지 넣기 예시
-<img src="./mdimage.png" style= "width : 100px" /> 
+<img src="./mdimage.png" /> 
 
 ***
 
